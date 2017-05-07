@@ -1,13 +1,9 @@
-{% if page.title == "Home"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Tags"
-%}{% assign showHeader = true %}{% endif %}
+{% if page.title == "Home" %}{% assign showDetail = true %}{% endif %}
 
-{% if showHeader == true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
+    <header class="header-home">
+{% if showDetail == true %}
         {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
+            <a class="link" href="{{ site.url }}/home">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </a>
         {% else %}
@@ -15,12 +11,14 @@
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
             </span>
         {% endif %}
-
-        <h1 class="title">{{ site.name }}</h1>
+{% endif %}
+        <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
+        {% if showDetail == true %}
         <h2 class="description">{{ site.bio }}</h2>
 
         {% include social-links.html %}
-    </header>
 {% endif %}
+    </header>
+
 
 {% include nav.html %}
