@@ -4,6 +4,7 @@ layout: post
 date: 2017-05-07
 #image: /assets/images/markdown.jpg
 headerImage: false
+comments: false
 tag:
 - theme
 category: blog
