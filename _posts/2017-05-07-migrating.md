@@ -5,9 +5,7 @@ date: 2017-05-07
 #image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- theme
 category: blog
 author: scott
 description: migrating to github pages
