@@ -15,13 +15,13 @@ blogger_orig_url: http://scosant.blogspot.com/2012/12/projecteuler-018-maximum-p
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
 
 <p align="center" markdown="1">
-    ![maximum-path-sum-i-1](/assets/images/posts/maximum-path-sum-i-1.png)
+    ![maximum-path-sum-i-1](/assets/images/posts/maximum-path-sum-i-1.jpg)
 </p>
 
 That is, 3 + 7 + 4 + 9 = 23. Find the maximum total from top to bottom of the triangle below:
 
 <p align="center" markdown="1">
-    ![maximum-path-sum-i-2](/assets/images/posts/maximum-path-sum-i-2.png)
+    ![maximum-path-sum-i-2](/assets/images/posts/maximum-path-sum-i-2.jpg)
 </p>
 
 <script src="https://gist.github.com/4350690.js"></script>

@@ -25,7 +25,7 @@ Reverse words in a string (words are separated by one or more spaces). Now do it
 This is an in-place solution in C.  It works by first reversing the entire string, and then reverses each word.  To detect the beginning and end of each word, it uses the following state machine:
 
 <p align="center" markdown="1">
-    ![reverse words in a string state machine](/assets/images/posts/reverse-words-in-a-string-state-machine.png)
+    ![reverse words in a string state machine](/assets/images/posts/reverse-words-in-a-string-state-machine.jpg)
 </p>
 
 Once it detects its first character, it marks this as the beginning of the word. It then traverses the string until it reaches a "." (period) or " " (space) and marks the previous character as the end of the word. It then reverses this word. If a "\0" (null terminator) is reached and is still within a word, it reverses this final word and exits. Otherwise, it simply exits.

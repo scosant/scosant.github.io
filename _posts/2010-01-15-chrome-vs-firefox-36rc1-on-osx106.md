@@ -40,6 +40,6 @@ Chrome was approximately twice as fast as Firefox (overall) in JavaScript. Resul
 #### Futuremark Peacekeeper Browser Benchmark
 
 <p align="center" markdown="1">
-    ![firefox-3.6rc1](/assets/images/posts/firefox-3.6rc1.png)
-    ![chrome-4.0.295.0](/assets/images/posts/chrome-4.0.295.0.png)
+    ![firefox-3.6rc1](/assets/images/posts/firefox-3.6rc1.jpg)
+    ![chrome-4.0.295.0](/assets/images/posts/chrome-4.0.295.0.jpg)
 </p>
