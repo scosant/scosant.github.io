@@ -6,10 +6,11 @@ description: basic data structures
 date: '2009-08-26T23:04:00.008-05:00'
 author: scott
 tag:
-- source
-- programming
 - c
 - data-structures
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2012-12-17T06:42:28.051-06:00'
 thumbnail: http://3.bp.blogspot.com/_4yzBNmd0Mow/Spo9wTVdFiI/AAAAAAAABiw/gNd8bp3-Hqo/s72-c/singly-linked+original.png
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-678208148173055298

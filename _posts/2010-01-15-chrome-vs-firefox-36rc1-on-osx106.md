@@ -7,6 +7,9 @@ date: '2010-01-15T18:24:00.003-06:00'
 author: scott
 tag:
 - benchmarks
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2010-02-08T10:43:28.701-06:00'
 thumbnail: http://4.bp.blogspot.com/_4yzBNmd0Mow/S1EENlmeDCI/AAAAAAAACaA/2lUCHC2uNpU/s72-c/Firefox+3.6rc1.png
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-5735412115586518824

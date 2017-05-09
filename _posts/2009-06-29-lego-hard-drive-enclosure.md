@@ -6,8 +6,10 @@ description: poor man's raid 5
 date: '2009-06-29T22:20:00.007-05:00'
 author: scott
 tag:
-- drivel
 - modding
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2009-07-10T18:34:14.261-05:00'
 thumbnail: http://2.bp.blogspot.com/_4yzBNmd0Mow/SlfP7zZN9VI/AAAAAAAABN8/_5Ij3kNS10o/s72-c/Lego+RAID+Case.jpg
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-3152249526183869189

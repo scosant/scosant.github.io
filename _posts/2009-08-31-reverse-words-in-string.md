@@ -6,10 +6,10 @@ description: most popular programming interview question
 date: '2009-08-31T06:02:00.011-05:00'
 author: scott
 tag:
-- source
-- programming
-- strings
 - c
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2012-12-17T06:33:54.146-06:00'
 thumbnail: http://1.bp.blogspot.com/_4yzBNmd0Mow/SpuswSkGqxI/AAAAAAAABkQ/8GTlzLy_PkU/s72-c/reverse+words+in+a+string+state+machine.png
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-2495358262353513147

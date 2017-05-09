@@ -6,8 +6,10 @@ description: ubuntu jaunty power issue
 date: '2009-04-26T18:28:00.002-05:00'
 author: scott
 tag:
-- linux
-- troubleshooting
+- linux-troubleshooting
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2010-03-05T03:09:52.944-06:00'
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-8330345587057660038
 blogger_orig_url: http://scosant.blogspot.com/2009/04/fixing-suspend-and-enabling-wol-on.html

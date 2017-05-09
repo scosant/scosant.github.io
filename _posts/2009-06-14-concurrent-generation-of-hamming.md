@@ -6,10 +6,11 @@ description: fun programming homework
 date: '2009-06-14T05:56:00.030-05:00'
 author: scott
 tag:
-- source
-- algorithms
-- programming
+- state-machine
 - java
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2012-12-17T06:45:02.459-06:00'
 thumbnail: http://3.bp.blogspot.com/_4yzBNmd0Mow/SlAjJMjUlLI/AAAAAAAABLQ/3d30U7XwL_I/s72-c/diagram.png
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-1430157865796583378

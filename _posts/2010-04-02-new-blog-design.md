@@ -6,7 +6,10 @@ description: trying out draft blogger mode
 date: '2010-04-02T15:43:00.001-05:00'
 author: scott
 tag:
-- blogger
+- design
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2010-04-02T15:43:24.015-05:00'
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-398373158106498102
 blogger_orig_url: http://scosant.blogspot.com/2010/04/new-blog-design.html

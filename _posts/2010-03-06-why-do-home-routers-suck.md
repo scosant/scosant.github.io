@@ -7,6 +7,9 @@ date: '2010-03-06T22:01:00.001-06:00'
 author: scott
 tag:
 - networking
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2010-03-07T00:25:20.551-06:00'
 thumbnail: http://2.bp.blogspot.com/_4yzBNmd0Mow/S5McpCt00FI/AAAAAAAACss/_a5NxI1jYt0/s72-c/Netgear-RangeMax-WNR3500L-Wireless-N-Router-with-USB.jpg
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-3544658642828486375

@@ -7,6 +7,9 @@ date: '2009-08-31T22:22:00.007-05:00'
 author: scott
 tag:
 - puzzles
+image: https://unsplash.it/560/120?random
+headerImage: true
+comments: false
 modified_time: '2010-11-02T12:01:34.440-05:00'
 blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-8753112210906803930
 blogger_orig_url: http://scosant.blogspot.com/2009/08/indestructible-light-bulbs.html
