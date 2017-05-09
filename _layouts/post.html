@@ -3,18 +3,18 @@ layout: page
 ---
 
 {% if page.image and page.headerImage %}
-    <img class="title-image" src="{{ page.image }}" alt="{{ page.title }}">
+    <img class="title-image {% if site.animation %}animated{% endif %}" src="{{ page.image }}" alt="{{ page.title }}">
 {% endif %}
 
 <h1 class="title">{{ page.title }}</h1>
 
-<span class="date">
+<span class="date {% if site.animation %}animated{% endif %}">
     <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
     {% if site.read-time %} - {% include read-time.html %}{% endif %}
 </span>
 
 {% if site.show-tags %}
-    <div class="post-tags">
+    <div class="post-tags {% if site.animation %}animated{% endif %}">
         {% for tag in page.tags %}
             <a class="item" href="{{ site.url }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
         {% endfor %}
