@@ -16,11 +16,11 @@ blogger_id: tag:blogger.com,1999:blog-8714319922389040689.post-24953582623535131
 blogger_orig_url: http://scosant.blogspot.com/2009/08/reverse-words-in-string.html
 ---
 
-# Problem
+#### Problem
 
 Reverse words in a string (words are separated by one or more spaces). Now do it in-place. By far the most popular string [question](http://maxnoy.com/interviews.html)!
 
-# Solution
+#### Solution
 
 This is an in-place solution in C.  It works by first reversing the entire string, and then reverses each word.  To detect the beginning and end of each word, it uses the following state machine:
 
