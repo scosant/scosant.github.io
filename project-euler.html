@@ -3,7 +3,8 @@ layout: page
 title: project euler
 ---
 <section class="list {% if site.animation %}animated{% endif %}">
-    {% for problem in site.project-euler %}
+    {% assign problems = site.project-euler | sort: 'description' %}
+    {% for problem in problems reversed %}
         <div class="item {% if post.star %}star{% endif %}">
             <a class="url" href="{{ site.url }}{{ problem.url }}">
                 <aside class="date"><time datetime="{{ problem.date | date:"%d-%m-%Y" }}">{{ problem.date | date: "%b %d %Y" }}</time></aside>

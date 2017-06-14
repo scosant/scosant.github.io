@@ -1,7 +1,7 @@
 ---
 layout: post
 title: power digit sum
-description: projecteuler 016
+description: projecteuler016
 date: '2010-04-02T09:19:00.005-05:00'
 author: scott
 tag:

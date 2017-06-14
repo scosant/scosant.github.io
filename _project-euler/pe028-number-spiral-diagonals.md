@@ -1,7 +1,7 @@
 ---
 layout: post
 title: number spiral diagonals
-description: projecteuler 028
+description: projecteuler028
 date: '2011-05-16T17:09:00.002-05:00'
 author: scott
 tag:
