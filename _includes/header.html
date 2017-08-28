@@ -1,6 +1,7 @@
 {% if page.title == "Home" %}{% assign showDetail = true %}{% endif %}
 
 <header class="header-home">
+    <!--
     {% if showDetail == true %}
         {% if site.showAbout %}
             <a class="link {% if site.animation %}animated{% endif %}" href="{{ site.url }}">
@@ -12,6 +13,7 @@
             </span>
         {% endif %}
     {% endif %}
+        -->
 
     <h1 class="title"><a href="{{ site.url }}">{{ site.name }}</a></h1>
     {% if showDetail == true %}
