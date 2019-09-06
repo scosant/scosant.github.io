@@ -15,7 +15,7 @@ title: Home
 		{% endfor %}
 		{% include pagination.html%}
 	{% else %}
-		{% for post in site.categories.blog limit:10 %}
+		{% for post in site.categories.blog limit:1 %}
 			{% if post.hidden != true %}
 				{% include item-full.html %}<br/><br/>
 			{% endif %}
