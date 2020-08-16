@@ -1,6 +1,6 @@
 # main text of home
 name: Scott Santarromana
-bio: salesforce solution architect at model n
+bio: Salesforce Architect @ RevenueWell
 
 # twitter summary info
 description: scott's blog
@@ -9,7 +9,7 @@ description: scott's blog
 # better with square images
 external-image: false
 picture: assets/images/profile2.jpg
-profile: assets/images/favicon/ms-icon-310x310.png
+
 
 url: http://scosant.github.io
 
