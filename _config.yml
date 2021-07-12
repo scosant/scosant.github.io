@@ -17,14 +17,10 @@ permalink: /:title/
 
 # list of collections
 collections:
-  project-euler:
+  project-01:
     output: true
-    title: project euler
-    description: series of challenging mathematical/computer programming problems
-  project-rosalind:
-    output: true
-    title: rosalind
-    description: platform for learning bioinformatics and programming through problem solving
+    title: project-01
+    description: placeholder
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'

@@ -1,0 +1,16 @@
+---
+layout: page
+title: project-01
+---
+<section class="list {% if site.animation %}animated{% endif %}">
+    {% assign problems = site.project-01 | sort: 'description' %}
+    {% for problem in problems reversed %}
+        <div class="item {% if post.star %}star{% endif %}">
+            <a class="url" href="{{ site.url }}{{ problem.url }}">
+                <aside class="date"><time datetime="{{ problem.date | date:"%d-%m-%Y" }}">{{ problem.date | date: "%b %d %Y" }}</time></aside>
+                <h3 class="title">{{ problem.title }}</h3>
+            </a>
+            <span class="description">&nbsp;&nbsp;&nbsp;&nbsp;{{ problem.description }}</span>
+        </div>
+    {% endfor %}
+</section>
